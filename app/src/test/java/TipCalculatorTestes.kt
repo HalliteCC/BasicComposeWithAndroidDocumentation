@@ -1,5 +1,4 @@
-package com.example.tiptime
-
+import com.example.tiptime.calculateTip
 import junit.framework.TestCase.assertEquals
 import org.junit.Test
 import java.text.NumberFormat
